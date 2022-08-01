@@ -1,0 +1,26 @@
+﻿  BaseItem.cpp
+  Cow.cpp
+  CowFactory.cpp
+  Creature.cpp
+  Flame.cpp
+  GameEngine.cpp
+  InventoryIterator.cpp
+  Item.cpp
+  ItemEnchancement.cpp
+  ItemMap.cpp
+  main.cpp
+  MakeSoundVisitor.cpp
+  Pig.cpp
+  PigFactory.cpp
+  Player.cpp
+  LookVisitor.cpp
+  Sharpening.cpp
+  Sheep.cpp
+  CreatureFactory.cpp
+  SheepFactory.cpp
+  Generating Code...
+  Compiling...
+  Toughness.cpp
+  Visitor.cpp
+  Generating Code...
+  LittleMinecraft.vcxproj -> C:\Users\LKW\Downloads\LittleMinecraft\Debug\LittleMinecraft.exe

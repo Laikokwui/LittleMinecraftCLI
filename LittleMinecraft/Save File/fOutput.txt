@@ -1,0 +1,20 @@
+/Travel
+/Travel
+/Map
+/Help
+/ Show Map
+/Show Map
+/Travel forest_terrain
+/Show Map
+/GoTo forest_terrain
+/Help
+/Goto ruins_terrain
+/Show Maps
+/Show Map
+/Goto dessert_terrain
+/Goto ruins_terrain
+/Goto forest_terrain
+/Goto dessert_terrain
+/Travel
+/Show Map
+/Quit
